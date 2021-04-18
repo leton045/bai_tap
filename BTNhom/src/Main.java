@@ -6,6 +6,8 @@ public class Main {
         ArrayList<Sanpham> sanphams= quanlysp.themSP();
         quanlysp.laySP(sanphams);
         quanlysp.layTheoDanhMuc(sanphams);
+        quanlysp.layTheoHang(sanphams);
+        quanlysp.inThongTinGiaVaDanhMuc(sanphams);
     }
     
 }

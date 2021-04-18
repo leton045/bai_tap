@@ -11,6 +11,7 @@ public class Sanpham {
     private String hang;
     private String danhMuc;
 
+    
 
     public Sanpham() {
     }
